@@ -12,5 +12,7 @@
 10. [Adem ilter](https://www.youtube.com/user/ademilter)
 11. [Selman Kahya](https://www.youtube.com/user/SirChintzy)
 12. [Atölye15](https://www.youtube.com/user/atolyeonbes/videos)
+13. [code is life](https://www.youtube.com/channel/UCLK3qxTPi2pNuXxfQRt0QDg)
+14. [Istanbul Coders](https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA)
 
 
